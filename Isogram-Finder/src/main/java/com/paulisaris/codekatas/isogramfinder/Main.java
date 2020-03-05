@@ -1,4 +1,4 @@
-package com.paulisaris.codekatas.isogramfinder;
+package main.java.com.paulisaris.codekatas.isogramfinder;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package com.paulisaris.codekatas.isogramfinder;
+package main.java.com.paulisaris.codekatas.isogramfinder;
 
 import java.util.Set;
 import java.util.TreeSet;

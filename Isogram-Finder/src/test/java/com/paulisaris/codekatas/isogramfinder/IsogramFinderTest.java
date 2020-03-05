@@ -1,5 +1,6 @@
-package com.paulisaris.codekatas.isogramfinder;
+package test.java.com.paulisaris.codekatas.isogramfinder;
 
+import main.java.com.paulisaris.codekatas.isogramfinder.IsogramFinder;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
