@@ -6,9 +6,10 @@ This problem can be found on [Hackerrank](https://www.hackerrank.com/challenges/
 
 Given the time in numerals we may convert it into words, as shown below:
 
-
-<img alt="Screenshot" src="./img/screenshot.png">
-
+<p align="center">
+<img alt="Screenshot" src="https://raw.githubusercontent.com/PavlosIsaris/Code-Katas/master/The-Time-in-Words/img/screenshot.png">
+</p>
+<br>
 
 At `minutes = 0` , use o' clock. For `1 <= minutes <= 30` , use past, and for `30 < minutes` use to. Note the space between the apostrophe and clock in o' clock. Write a program which prints the time in words for the input given in the format described.
 
